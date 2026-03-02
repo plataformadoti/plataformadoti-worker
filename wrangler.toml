@@ -1,3 +1,4 @@
 name = "plataformadoti-api"
 main = "src/index.js"
 compatibility_date = "2026-03-02"
+account_id = "0f182e6a9d0c735c43066ebdd2c0272f"
